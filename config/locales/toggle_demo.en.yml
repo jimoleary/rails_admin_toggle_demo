@@ -1,0 +1,11 @@
+
+en:
+  admin:
+    actions:
+      toggle_demo:
+        title: "Toggle"
+        menu: "Toggle"
+        breadcrumb: "Toggle"
+        link: "Toggle"
+        bulk_link: "Toggle Demo selected %{model_label_plural}"
+        done: "Toggle Demoed"
